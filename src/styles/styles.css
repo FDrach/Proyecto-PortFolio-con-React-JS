@@ -118,7 +118,7 @@ a:hover {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #1a1d21;
+  background-color: #0c004123;
   border: 1px solid #4a5568;
   margin-bottom: 2px;
 }
