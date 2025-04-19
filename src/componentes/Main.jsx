@@ -33,9 +33,6 @@ const Main = () => {
           <li>
             <a href="#idiomas">Idiomas</a>
           </li>
-          <li>
-            <a href="#certificados">Certificados</a>
-          </li>
         </ul>
       </nav>
       <section id="estudios">

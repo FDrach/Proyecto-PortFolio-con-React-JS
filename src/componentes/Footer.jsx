@@ -5,7 +5,7 @@ const Footer = () => {
   let curYear=new Date().getFullYear();
   return (
     <footer className="app-footer">
-      <p> © Copyright {startYear}{curYear === startYear ? "" : "-"+new Date().getFullYear()} Franco Drachenberg</p>
+      <p> © Copyright {startYear}{curYear === startYear ? "" : "-"+new Date().getFullYear()} Franco Drachenberg - <a href="/license">Licencias</a></p>
       <p><a href="https://github.com/fdrach" target="blank"><img src={ghLogo} alt="GitHub Logo" class="footer-icon"/>GitHub</a></p>
     </footer>
   );
