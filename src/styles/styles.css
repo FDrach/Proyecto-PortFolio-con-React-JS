@@ -58,9 +58,11 @@ a:hover {
 }
 
 .panel {
-  padding: 2rem;
-  margin: 0 5rem;
+  padding: 1rem;
+  margin: 0 2rem;
   background-color: #0c004123;
+  border: 1px solid #4a5568;
+
 }
 
 .panel:hover {
