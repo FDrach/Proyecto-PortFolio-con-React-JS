@@ -27,6 +27,7 @@ a:hover {
 }
 
 .app-header {
+  max-height: 10vh;
   background-color: #2d3748;
   padding: 1rem 2rem;
   border-bottom: 1px solid #4a5568;
@@ -76,4 +77,8 @@ a:hover {
 
 .app-footer p {
   margin: 0;
+}
+
+.avatar{
+  height: 10vh;
 }
